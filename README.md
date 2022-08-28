@@ -31,7 +31,7 @@ I'm a Full Stack Developer with 5+ years of hands-on experience designing, devel
 I'm currently based in **[Manado, Indonesia.](https://goo.gl/maps/eZmTpPHDwzRPsEQW9)**
 
 <br />
-I love solving problem that require tech to solved. Also I love riding with my motorcycle to remote place and drinking some coffee while coding in remote place coffee shop  
+I love solving problem that require tech to solved. Also I love riding with my motorcycle to remote place and drinking some coffee while coding in remote place coffee shop   
 <br />
 <br />
 
