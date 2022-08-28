@@ -1,6 +1,5 @@
 <!-- Header Image -->
 <img width="100%" alt="Grand Blue Fantasy" src="https://images.alphacoders.com/877/877952.jpg"/>
-<br>
 
 <!-- Tiitle Header Header -->
 <div align="center">
@@ -22,19 +21,16 @@
 	</a>
 </div>
 <br />
-<br />
 
 <!-- Self Introductions -->
 I'm a Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[Manado, Indonesia.](https://goo.gl/maps/eZmTpPHDwzRPsEQW9)**
+I'm currently working as Software Engineer at PT Sinar Terang Mandiri and based in **[Manado, Indonesia.](https://goo.gl/maps/eZmTpPHDwzRPsEQW9)**
 
-<br />
+
 I love solving problem that require tech to solved. Also I love riding with my motorcycle to remote place and drinking some coffee while coding in remote place coffee shop   
 <br />
-<br />
-
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything <a href="mailto:pretzelrotti26@gmail.com"><b>here</b></a>.
 <br />
@@ -161,7 +157,10 @@ Ask me anything <a href="mailto:pretzelrotti26@gmail.com"><b>here</b></a>.
 </table>
 
 <hr>
-
+<br>
+<div align="right">
+	<small>All the images and graphics used in this readme belong to their respective owners and I does not claim any right over them.</small>
+</div>
 <!--
 **darkshiroe/darkshiroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
